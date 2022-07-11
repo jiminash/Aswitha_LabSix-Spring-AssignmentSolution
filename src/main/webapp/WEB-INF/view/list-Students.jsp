@@ -27,7 +27,7 @@
 		<hr>
 		<!-- Add a button -->
 		<a href="/StudentManagement/students/showFormForAdd"
-			class="btn btn-primary btn-sm mb-3"> Add Book </a> <a
+			class="btn btn-primary btn-sm mb-3"> Add Student </a> <a
 			href="/StudentManagement/logout"
 			class="btn btn-primary btn-sm mb-3 mx-auto"> Logout </a>
 
